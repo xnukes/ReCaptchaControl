@@ -1,6 +1,6 @@
 
 {
-	"name": "uestla/recaptcha-control",
+	"name": "xnukes/recaptcha-control",
 	"type": "library",
 	"description": "reCAPTCHA control for Nette Framework forms",
 	"keywords": ["nette", "forms", "recaptcha"],
